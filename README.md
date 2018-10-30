@@ -1,12 +1,10 @@
-# Workshop : Game from Scratch - 2018
-
 Code produced by students for the "back-to-school" workshop - first year in Game Design @lecolededesign.
 
 To play those games you will need to download [processing](https://processing.org/) and install :
 - the sound library
 - the minimim library
 
-You can then download or clone this repo and launch each game within the processing IDE.
+You can then download or clone [this repo](https://github.com/AtelierNum/workshop_gamefromscratch_2018) and launch each game within the processing IDE.
 
 Instructions available to students can be found [here](https://github.com/b2renger/processing_physics_game_workshop) (in french).
 
